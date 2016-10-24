@@ -28,10 +28,9 @@ from the root directory.
 
 Browse to `localhost:8080` to see the application in action.
 
-The database is in memeory so rebooting should reset the data.
+The database is in memory so rebooting should reset the data.
 
 ### License
-----
 
 MIT
 
