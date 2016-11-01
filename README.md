@@ -1,6 +1,6 @@
 # React App with Spring Boot
 
-This is the code developed in the blog post on creating a React App using Spring Boot. You can read blog post [here](https://stormpath.com/blog/crud-application-react-spring-boot-user-authentication)
+This is the code developed in a [Stormpath blog post on creating a React App using Spring Boot](https://stormpath.com/blog/crud-application-react-spring-boot-user-authentication).
 
 ### Requirements
 
