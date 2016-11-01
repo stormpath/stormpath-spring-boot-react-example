@@ -7,10 +7,9 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import static com.stormpath.spring.config.StormpathWebSecurityConfigurer.stormpath;
 
 @Configuration
-public class Security  extends WebSecurityConfigurerAdapter {
+public class Security extends WebSecurityConfigurerAdapter {
     @Override
     protected void configure(HttpSecurity http) throws Exception {
-        http
-            .apply(stormpath());
+        http.apply(stormpath());
     }
 }
